@@ -1,6 +1,6 @@
 def input_user():
     lista = []
-    n = int(input("enter the number of items do youm want to enter"))
+    n = int(input("enter the number of items do you want to enter"))
     suma = 0
     counter = 0
 
